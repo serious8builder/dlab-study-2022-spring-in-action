@@ -1,0 +1,1 @@
+web: java -jar ch02/build/libs/taco-cloud-0.0.1-SNAPSHOT.jar
