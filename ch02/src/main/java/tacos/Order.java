@@ -2,6 +2,7 @@ package tacos;
 
 import lombok.Data;
 import org.hibernate.validator.constraints.CreditCardNumber;
+import tacos.validator.CreditCardExpiry;
 
 import javax.validation.constraints.Digits;
 import javax.validation.constraints.NotBlank;
@@ -21,7 +22,7 @@ public class Order {
     private String deliveryZip;
     @CreditCardNumber(message="Not a valid credit card number")
     private String ccNumber;
-    @Pattern(regexp="^(0[1-9]|1[1-2])([\\/])([1-9][0-9])$", message = "Must be formatted MM/YY")
+    @CreditCardExpiry(message = "Must be formatted MM/YY")
     private String ccExpiration;
     @Digits(integer = 3, fraction = 0, message = "Invalid CVV")
     private String ccCVV;
