@@ -1,0 +1,502 @@
+Executing SQL query [select id, name, type from Ingredient]
+Executing SQL query [select id, name, type from Ingredient]
+Executing prepared SQL query
+Executing prepared SQL statement [select id, name, type from Ingredient where id=?]
+Setting SQL statement parameter value: column index 1, parameter value [FLTO], value class [java.lang.String], SQL type unknown
+Executing prepared SQL query
+Executing prepared SQL statement [select id, name, type from Ingredient where id=?]
+Setting SQL statement parameter value: column index 1, parameter value [GRBF], value class [java.lang.String], SQL type unknown
+Executing prepared SQL query
+Executing prepared SQL statement [select id, name, type from Ingredient where id=?]
+Setting SQL statement parameter value: column index 1, parameter value [TMTO], value class [java.lang.String], SQL type unknown
+Executing SQL update and returning generated keys
+Executing prepared SQL statement [insert into Taco (name, createdAt) values (?, ?)]
+Setting SQL statement parameter value: column index 1, parameter value [추석스페셜타코], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 2, parameter value [2022-09-08 21:47:36.102], value class [java.sql.Timestamp], SQL type 93
+SQL update affected 1 rows and returned 1 keys
+Executing prepared SQL update
+Executing prepared SQL statement [insert into Taco_Ingredients (taco, ingredient) values (?, ?)]
+Setting SQL statement parameter value: column index 1, parameter value [1], value class [java.lang.Long], SQL type unknown
+Setting SQL statement parameter value: column index 2, parameter value [FLTO], value class [java.lang.String], SQL type unknown
+SQL update affected 1 rows
+Executing prepared SQL update
+Executing prepared SQL statement [insert into Taco_Ingredients (taco, ingredient) values (?, ?)]
+Setting SQL statement parameter value: column index 1, parameter value [1], value class [java.lang.Long], SQL type unknown
+Setting SQL statement parameter value: column index 2, parameter value [GRBF], value class [java.lang.String], SQL type unknown
+SQL update affected 1 rows
+Executing prepared SQL update
+Executing prepared SQL statement [insert into Taco_Ingredients (taco, ingredient) values (?, ?)]
+Setting SQL statement parameter value: column index 1, parameter value [1], value class [java.lang.Long], SQL type unknown
+Setting SQL statement parameter value: column index 2, parameter value [TMTO], value class [java.lang.String], SQL type unknown
+SQL update affected 1 rows
+Executing SQL update and returning generated keys
+Executing prepared SQL statement
+Setting SQL statement parameter value: column index 1, parameter value [Ryan Kang ], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 2, parameter value [111], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 3, parameter value [Tokyo], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 4, parameter value [Tokyo], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 5, parameter value [111], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 6, parameter value [1111222233334444], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 7, parameter value [11/23], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 8, parameter value [121], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 9, parameter value [null], value class [null], SQL type 93
+Executing SQL update and returning generated keys
+Executing prepared SQL statement
+Setting SQL statement parameter value: column index 1, parameter value [Ryan Kang ], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 2, parameter value [111], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 3, parameter value [Tokyo], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 4, parameter value [SA], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 5, parameter value [111], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 6, parameter value [1111222233334444], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 7, parameter value [11/23], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 8, parameter value [121], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 9, parameter value [null], value class [null], SQL type 93
+Executing SQL query [select id, name, type from Ingredient]
+Executing SQL query [select id, name, type from Ingredient]
+Executing prepared SQL query
+Executing prepared SQL statement [select id, name, type from Ingredient where id=?]
+Setting SQL statement parameter value: column index 1, parameter value [FLTO], value class [java.lang.String], SQL type unknown
+Executing prepared SQL query
+Executing prepared SQL statement [select id, name, type from Ingredient where id=?]
+Setting SQL statement parameter value: column index 1, parameter value [GRBF], value class [java.lang.String], SQL type unknown
+Executing prepared SQL query
+Executing prepared SQL statement [select id, name, type from Ingredient where id=?]
+Setting SQL statement parameter value: column index 1, parameter value [TMTO], value class [java.lang.String], SQL type unknown
+Executing SQL update and returning generated keys
+Executing prepared SQL statement [insert into Taco (name, createdAt) values (?, ?)]
+Setting SQL statement parameter value: column index 1, parameter value [추석스페셜타코], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 2, parameter value [2022-09-08 22:35:55.73], value class [java.sql.Timestamp], SQL type 93
+SQL update affected 1 rows and returned 1 keys
+Executing prepared SQL update
+Executing prepared SQL statement [insert into Taco_Ingredients (taco, ingredient) values (?, ?)]
+Setting SQL statement parameter value: column index 1, parameter value [1], value class [java.lang.Long], SQL type unknown
+Setting SQL statement parameter value: column index 2, parameter value [FLTO], value class [java.lang.String], SQL type unknown
+SQL update affected 1 rows
+Executing prepared SQL update
+Executing prepared SQL statement [insert into Taco_Ingredients (taco, ingredient) values (?, ?)]
+Setting SQL statement parameter value: column index 1, parameter value [1], value class [java.lang.Long], SQL type unknown
+Setting SQL statement parameter value: column index 2, parameter value [GRBF], value class [java.lang.String], SQL type unknown
+SQL update affected 1 rows
+Executing prepared SQL update
+Executing prepared SQL statement [insert into Taco_Ingredients (taco, ingredient) values (?, ?)]
+Setting SQL statement parameter value: column index 1, parameter value [1], value class [java.lang.Long], SQL type unknown
+Setting SQL statement parameter value: column index 2, parameter value [TMTO], value class [java.lang.String], SQL type unknown
+SQL update affected 1 rows
+Executing SQL update and returning generated keys
+Executing prepared SQL statement
+Setting SQL statement parameter value: column index 1, parameter value [Ryan Kang], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 2, parameter value [xxx], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 3, parameter value [Seoul], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 4, parameter value [SO], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 5, parameter value [111], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 6, parameter value [1111222233334444], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 7, parameter value [11/12], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 8, parameter value [111], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 9, parameter value [Thu Sep 08 22:36:29 KST 2022], value class [java.util.Date], SQL type 93
+SQL update affected 1 rows and returned 1 keys
+Executing prepared SQL update
+Executing prepared SQL statement [INSERT INTO Taco_Order_Tacos (TACOORDER, TACO) VALUES(?, ?)]
+Setting SQL statement parameter value: column index 1, parameter value [1], value class [java.lang.Long], SQL type -5
+Setting SQL statement parameter value: column index 2, parameter value [1], value class [java.lang.Long], SQL type -5
+SQL update affected 1 rows
+Executing SQL query [select id, name, type from Ingredient]
+Executing SQL query [select id, name, type from Ingredient]
+Executing prepared SQL query
+Executing prepared SQL statement [select id, name, type from Ingredient where id=?]
+Setting SQL statement parameter value: column index 1, parameter value [FLTO], value class [java.lang.String], SQL type unknown
+Executing prepared SQL query
+Executing prepared SQL statement [select id, name, type from Ingredient where id=?]
+Setting SQL statement parameter value: column index 1, parameter value [GRBF], value class [java.lang.String], SQL type unknown
+Executing prepared SQL query
+Executing prepared SQL statement [select id, name, type from Ingredient where id=?]
+Setting SQL statement parameter value: column index 1, parameter value [TMTO], value class [java.lang.String], SQL type unknown
+Executing SQL update and returning generated keys
+Executing prepared SQL statement [insert into Taco (name, createdAt) values (?, ?)]
+Setting SQL statement parameter value: column index 1, parameter value [추석스페셜타코], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 2, parameter value [2022-09-08 22:36:54.388], value class [java.sql.Timestamp], SQL type 93
+SQL update affected 1 rows and returned 1 keys
+Executing prepared SQL update
+Executing prepared SQL statement [insert into Taco_Ingredients (taco, ingredient) values (?, ?)]
+Setting SQL statement parameter value: column index 1, parameter value [2], value class [java.lang.Long], SQL type unknown
+Setting SQL statement parameter value: column index 2, parameter value [FLTO], value class [java.lang.String], SQL type unknown
+SQL update affected 1 rows
+Executing prepared SQL update
+Executing prepared SQL statement [insert into Taco_Ingredients (taco, ingredient) values (?, ?)]
+Setting SQL statement parameter value: column index 1, parameter value [2], value class [java.lang.Long], SQL type unknown
+Setting SQL statement parameter value: column index 2, parameter value [GRBF], value class [java.lang.String], SQL type unknown
+SQL update affected 1 rows
+Executing prepared SQL update
+Executing prepared SQL statement [insert into Taco_Ingredients (taco, ingredient) values (?, ?)]
+Setting SQL statement parameter value: column index 1, parameter value [2], value class [java.lang.Long], SQL type unknown
+Setting SQL statement parameter value: column index 2, parameter value [TMTO], value class [java.lang.String], SQL type unknown
+SQL update affected 1 rows
+Executing SQL query [select id, name, type from Ingredient]
+Executing SQL query [select id, name, type from Ingredient]
+Executing prepared SQL query
+Executing prepared SQL statement [select id, name, type from Ingredient where id=?]
+Setting SQL statement parameter value: column index 1, parameter value [FLTO], value class [java.lang.String], SQL type unknown
+Executing prepared SQL query
+Executing prepared SQL statement [select id, name, type from Ingredient where id=?]
+Setting SQL statement parameter value: column index 1, parameter value [CHED], value class [java.lang.String], SQL type unknown
+Executing SQL update and returning generated keys
+Executing prepared SQL statement [insert into Taco (name, createdAt) values (?, ?)]
+Setting SQL statement parameter value: column index 1, parameter value [another taco], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 2, parameter value [2022-09-08 22:37:02.833], value class [java.sql.Timestamp], SQL type 93
+SQL update affected 1 rows and returned 1 keys
+Executing prepared SQL update
+Executing prepared SQL statement [insert into Taco_Ingredients (taco, ingredient) values (?, ?)]
+Setting SQL statement parameter value: column index 1, parameter value [3], value class [java.lang.Long], SQL type unknown
+Setting SQL statement parameter value: column index 2, parameter value [FLTO], value class [java.lang.String], SQL type unknown
+SQL update affected 1 rows
+Executing prepared SQL update
+Executing prepared SQL statement [insert into Taco_Ingredients (taco, ingredient) values (?, ?)]
+Setting SQL statement parameter value: column index 1, parameter value [3], value class [java.lang.Long], SQL type unknown
+Setting SQL statement parameter value: column index 2, parameter value [CHED], value class [java.lang.String], SQL type unknown
+SQL update affected 1 rows
+Executing SQL update and returning generated keys
+Executing prepared SQL statement
+Setting SQL statement parameter value: column index 1, parameter value [Ray], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 2, parameter value [1111], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 3, parameter value [ssss], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 4, parameter value [S], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 5, parameter value [1111], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 6, parameter value [1111222233334444], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 7, parameter value [11/12], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 8, parameter value [123], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 9, parameter value [Thu Sep 08 22:37:31 KST 2022], value class [java.util.Date], SQL type 93
+SQL update affected 1 rows and returned 1 keys
+Executing prepared SQL update
+Executing prepared SQL statement [INSERT INTO Taco_Order_Tacos (TACOORDER, TACO) VALUES(?, ?)]
+Setting SQL statement parameter value: column index 1, parameter value [2], value class [java.lang.Long], SQL type -5
+Setting SQL statement parameter value: column index 2, parameter value [2], value class [java.lang.Long], SQL type -5
+SQL update affected 1 rows
+Executing prepared SQL update
+Executing prepared SQL statement [INSERT INTO Taco_Order_Tacos (TACOORDER, TACO) VALUES(?, ?)]
+Setting SQL statement parameter value: column index 1, parameter value [2], value class [java.lang.Long], SQL type -5
+Setting SQL statement parameter value: column index 2, parameter value [3], value class [java.lang.Long], SQL type -5
+SQL update affected 1 rows
+Executing SQL query [select id, name, type from Ingredient]
+Executing SQL query [select id, name, type from Ingredient]
+Executing prepared SQL query
+Executing prepared SQL statement [select id, name, type from Ingredient where id=?]
+Setting SQL statement parameter value: column index 1, parameter value [SLSA], value class [java.lang.String], SQL type unknown
+Executing SQL update and returning generated keys
+Executing prepared SQL statement [insert into Taco (name, createdAt) values (?, ?)]
+Setting SQL statement parameter value: column index 1, parameter value [ABCDE], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 2, parameter value [2022-09-09 05:47:35.821], value class [java.sql.Timestamp], SQL type 93
+SQL update affected 1 rows and returned 1 keys
+Executing prepared SQL update
+Executing prepared SQL statement [insert into Taco_Ingredients (taco, ingredient) values (?, ?)]
+Setting SQL statement parameter value: column index 1, parameter value [1], value class [java.lang.Long], SQL type unknown
+Setting SQL statement parameter value: column index 2, parameter value [SLSA], value class [java.lang.String], SQL type unknown
+SQL update affected 1 rows
+Executing SQL update and returning generated keys
+Executing prepared SQL statement
+Setting SQL statement parameter value: column index 1, parameter value [Ryan], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 2, parameter value [123], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 3, parameter value [SW], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 4, parameter value [KK], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 5, parameter value [123], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 6, parameter value [1111222233334444], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 7, parameter value [11/12], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 8, parameter value [123], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 9, parameter value [Fri Sep 09 05:48:00 KST 2022], value class [java.util.Date], SQL type 93
+SQL update affected 1 rows and returned 1 keys
+Executing prepared SQL update
+Executing prepared SQL statement [INSERT INTO Taco_Order_Tacos (TACOORDER, TACO) VALUES(?, ?)]
+Setting SQL statement parameter value: column index 1, parameter value [1], value class [java.lang.Long], SQL type -5
+Setting SQL statement parameter value: column index 2, parameter value [1], value class [java.lang.Long], SQL type -5
+SQL update affected 1 rows
+Executing SQL query [select id, name, type from Ingredient]
+Executing SQL query [select id, name, type from Ingredient]
+Executing prepared SQL query
+Executing prepared SQL statement [select id, name, type from Ingredient where id=?]
+Setting SQL statement parameter value: column index 1, parameter value [FLTO], value class [java.lang.String], SQL type unknown
+Executing SQL update and returning generated keys
+Executing prepared SQL statement [insert into Taco (name, createdAt) values (?, ?)]
+Setting SQL statement parameter value: column index 1, parameter value [ABCDE], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 2, parameter value [2022-09-09 05:50:00.598], value class [java.sql.Timestamp], SQL type 93
+SQL update affected 1 rows and returned 1 keys
+Executing prepared SQL update
+Executing prepared SQL statement [insert into Taco_Ingredients (taco, ingredient) values (?, ?)]
+Setting SQL statement parameter value: column index 1, parameter value [1], value class [java.lang.Long], SQL type unknown
+Setting SQL statement parameter value: column index 2, parameter value [FLTO], value class [java.lang.String], SQL type unknown
+SQL update affected 1 rows
+Executing SQL update and returning generated keys
+Executing prepared SQL statement
+Setting SQL statement parameter value: column index 1, parameter value [RK], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 2, parameter value [111], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 3, parameter value [SW], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 4, parameter value [KK], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 5, parameter value [123], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 6, parameter value [1111222233334444], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 7, parameter value [11/12], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 8, parameter value [111], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 9, parameter value [Fri Sep 09 05:50:21 KST 2022], value class [java.util.Date], SQL type 93
+SQL update affected 1 rows and returned 1 keys
+Executing prepared SQL update
+Executing prepared SQL statement [INSERT INTO Taco_Order_Tacos (TACOORDER, TACO) VALUES(?, ?)]
+Setting SQL statement parameter value: column index 1, parameter value [1], value class [java.lang.Long], SQL type -5
+Setting SQL statement parameter value: column index 2, parameter value [1], value class [java.lang.Long], SQL type -5
+SQL update affected 1 rows
+Executing SQL update and returning generated keys
+Executing prepared SQL statement
+Setting SQL statement parameter value: column index 1, parameter value [RK], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 2, parameter value [111], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 3, parameter value [SW], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 4, parameter value [KK], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 5, parameter value [123], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 6, parameter value [1111222233334444], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 7, parameter value [11/12], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 8, parameter value [111], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 9, parameter value [Fri Sep 09 05:50:51 KST 2022], value class [java.util.Date], SQL type 93
+SQL update affected 1 rows and returned 1 keys
+Executing prepared SQL update
+Executing prepared SQL statement [INSERT INTO Taco_Order_Tacos (TACOORDER, TACO) VALUES(?, ?)]
+Setting SQL statement parameter value: column index 1, parameter value [2], value class [java.lang.Long], SQL type -5
+Setting SQL statement parameter value: column index 2, parameter value [1], value class [java.lang.Long], SQL type -5
+SQL update affected 1 rows
+Executing SQL update and returning generated keys
+Executing prepared SQL statement
+Setting SQL statement parameter value: column index 1, parameter value [RK], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 2, parameter value [111], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 3, parameter value [SW], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 4, parameter value [KK], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 5, parameter value [123], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 6, parameter value [1111222233334444], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 7, parameter value [11/12], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 8, parameter value [111], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 9, parameter value [Fri Sep 09 05:54:21 KST 2022], value class [java.util.Date], SQL type 93
+SQL update affected 1 rows and returned 1 keys
+Executing SQL query [select id, name, type from Ingredient]
+Executing SQL query [select id, name, type from Ingredient]
+Executing prepared SQL query
+Executing prepared SQL statement [select id, name, type from Ingredient where id=?]
+Setting SQL statement parameter value: column index 1, parameter value [FLTO], value class [java.lang.String], SQL type unknown
+Executing SQL update and returning generated keys
+Executing prepared SQL statement [insert into Taco (name, createdAt) values (?, ?)]
+Setting SQL statement parameter value: column index 1, parameter value [ABCDE], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 2, parameter value [2022-09-09 05:54:33.033], value class [java.sql.Timestamp], SQL type 93
+SQL update affected 1 rows and returned 1 keys
+Executing prepared SQL update
+Executing prepared SQL statement [insert into Taco_Ingredients (taco, ingredient) values (?, ?)]
+Setting SQL statement parameter value: column index 1, parameter value [1], value class [java.lang.Long], SQL type unknown
+Setting SQL statement parameter value: column index 2, parameter value [FLTO], value class [java.lang.String], SQL type unknown
+SQL update affected 1 rows
+Executing SQL update and returning generated keys
+Executing prepared SQL statement
+Setting SQL statement parameter value: column index 1, parameter value [RK], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 2, parameter value [111], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 3, parameter value [SW], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 4, parameter value [KK], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 5, parameter value [123], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 6, parameter value [1111222233334444], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 7, parameter value [11/12], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 8, parameter value [111], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 9, parameter value [Fri Sep 09 05:54:37 KST 2022], value class [java.util.Date], SQL type 93
+SQL update affected 1 rows and returned 1 keys
+Executing prepared SQL update
+Executing prepared SQL statement [INSERT INTO Taco_Order_Tacos (TACOORDER, TACO) VALUES(?, ?)]
+Setting SQL statement parameter value: column index 1, parameter value [2], value class [java.lang.Long], SQL type -5
+Setting SQL statement parameter value: column index 2, parameter value [1], value class [java.lang.Long], SQL type -5
+SQL update affected 1 rows
+Executing SQL query [select id, name, type from Ingredient]
+Executing SQL query [select id, name, type from Ingredient]
+Executing prepared SQL query
+Executing prepared SQL statement [select id, name, type from Ingredient where id=?]
+Setting SQL statement parameter value: column index 1, parameter value [FLTO], value class [java.lang.String], SQL type unknown
+Executing SQL update and returning generated keys
+Executing prepared SQL statement [insert into Taco (name, createdAt) values (?, ?)]
+Setting SQL statement parameter value: column index 1, parameter value [ABCDE], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 2, parameter value [2022-09-09 05:55:23.673], value class [java.sql.Timestamp], SQL type 93
+SQL update affected 1 rows and returned 1 keys
+Executing prepared SQL update
+Executing prepared SQL statement [insert into Taco_Ingredients (taco, ingredient) values (?, ?)]
+Setting SQL statement parameter value: column index 1, parameter value [1], value class [java.lang.Long], SQL type unknown
+Setting SQL statement parameter value: column index 2, parameter value [FLTO], value class [java.lang.String], SQL type unknown
+SQL update affected 1 rows
+Executing SQL query [select id, name, type from Ingredient]
+Executing SQL query [select id, name, type from Ingredient]
+Executing prepared SQL query
+Executing prepared SQL statement [select id, name, type from Ingredient where id=?]
+Setting SQL statement parameter value: column index 1, parameter value [FLTO], value class [java.lang.String], SQL type unknown
+Executing SQL update and returning generated keys
+Executing prepared SQL statement [insert into Taco (name, createdAt) values (?, ?)]
+Setting SQL statement parameter value: column index 1, parameter value [ABCDE], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 2, parameter value [2022-09-09 05:56:21.433], value class [java.sql.Timestamp], SQL type 93
+SQL update affected 1 rows and returned 1 keys
+Executing prepared SQL update
+Executing prepared SQL statement [insert into Taco_Ingredients (taco, ingredient) values (?, ?)]
+Setting SQL statement parameter value: column index 1, parameter value [2], value class [java.lang.Long], SQL type unknown
+Setting SQL statement parameter value: column index 2, parameter value [FLTO], value class [java.lang.String], SQL type unknown
+SQL update affected 1 rows
+Executing SQL query [select id, name, type from Ingredient]
+Executing SQL query [select id, name, type from Ingredient]
+Executing prepared SQL query
+Executing prepared SQL statement [select id, name, type from Ingredient where id=?]
+Setting SQL statement parameter value: column index 1, parameter value [FLTO], value class [java.lang.String], SQL type unknown
+Executing SQL update and returning generated keys
+Executing prepared SQL statement [insert into Taco (name, createdAt) values (?, ?)]
+Setting SQL statement parameter value: column index 1, parameter value [ABCDE], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 2, parameter value [2022-09-09 05:56:50.273], value class [java.sql.Timestamp], SQL type 93
+Executing prepared SQL update
+Executing prepared SQL statement [insert into Taco_Ingredients (taco, ingredient) values (?, ?)]
+Setting SQL statement parameter value: column index 1, parameter value [1], value class [java.lang.Long], SQL type unknown
+Setting SQL statement parameter value: column index 2, parameter value [FLTO], value class [java.lang.String], SQL type unknown
+Executing SQL query [select id, name, type from Ingredient]
+Executing SQL query [select id, name, type from Ingredient]
+Executing prepared SQL query
+Executing prepared SQL statement [select id, name, type from Ingredient where id=?]
+Setting SQL statement parameter value: column index 1, parameter value [FLTO], value class [java.lang.String], SQL type unknown
+Executing SQL update and returning generated keys
+Executing prepared SQL statement [insert into Taco (name, createdAt) values (?, ?)]
+Setting SQL statement parameter value: column index 1, parameter value [ABCDE], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 2, parameter value [2022-09-09 05:57:19.045], value class [java.sql.Timestamp], SQL type 93
+SQL update affected 1 rows and returned 1 keys
+Executing prepared SQL update
+Executing prepared SQL statement [insert into Taco_Ingredients (taco, ingredient) values (?, ?)]
+Setting SQL statement parameter value: column index 1, parameter value [1], value class [java.lang.Long], SQL type unknown
+Setting SQL statement parameter value: column index 2, parameter value [FLTO], value class [java.lang.String], SQL type unknown
+SQL update affected 1 rows
+Executing SQL update and returning generated keys
+Executing prepared SQL statement
+Setting SQL statement parameter value: column index 1, parameter value [RK], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 2, parameter value [111], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 3, parameter value [SW], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 4, parameter value [KK], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 5, parameter value [123], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 6, parameter value [1111222233334444], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 7, parameter value [12/23], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 8, parameter value [111], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 9, parameter value [Fri Sep 09 05:57:51 KST 2022], value class [java.util.Date], SQL type 93
+SQL update affected 1 rows and returned 1 keys
+Executing prepared SQL update
+Executing prepared SQL statement [INSERT INTO Taco_Order_Tacos (TACOORDER, TACO) VALUES(?, ?)]
+Setting SQL statement parameter value: column index 1, parameter value [1], value class [java.lang.Long], SQL type -5
+Setting SQL statement parameter value: column index 2, parameter value [1], value class [java.lang.Long], SQL type -5
+SQL update affected 1 rows
+Executing SQL query [select id, name, type from Ingredient]
+Executing SQL query [select id, name, type from Ingredient]
+Executing prepared SQL query
+Executing prepared SQL statement [select id, name, type from Ingredient where id=?]
+Setting SQL statement parameter value: column index 1, parameter value [FLTO], value class [java.lang.String], SQL type unknown
+Executing SQL update and returning generated keys
+Executing prepared SQL statement
+Setting SQL statement parameter value: column index 1, parameter value [ABCDE], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 2, parameter value [1662671153194], value class [java.lang.Long], SQL type 93
+Executing SQL query [select id, name, type from Ingredient]
+Executing SQL query [select id, name, type from Ingredient]
+Executing prepared SQL query
+Executing prepared SQL statement [select id, name, type from Ingredient where id=?]
+Setting SQL statement parameter value: column index 1, parameter value [FLTO], value class [java.lang.String], SQL type unknown
+Executing SQL update and returning generated keys
+Executing prepared SQL statement
+Setting SQL statement parameter value: column index 1, parameter value [ABCDE], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 2, parameter value [Fri Sep 09 06:08:32 KST 2022], value class [java.util.Date], SQL type 93
+SQL update affected 1 rows and returned 1 keys
+Executing prepared SQL update
+Executing prepared SQL statement [insert into Taco_Ingredients (taco, ingredient) values (?, ?)]
+Setting SQL statement parameter value: column index 1, parameter value [1], value class [java.lang.Long], SQL type unknown
+Setting SQL statement parameter value: column index 2, parameter value [FLTO], value class [java.lang.String], SQL type unknown
+SQL update affected 1 rows
+Executing SQL query [select id, name, type from Ingredient]
+Executing SQL query [select id, name, type from Ingredient]
+Executing prepared SQL query
+Executing prepared SQL statement [select id, name, type from Ingredient where id=?]
+Setting SQL statement parameter value: column index 1, parameter value [FLTO], value class [java.lang.String], SQL type unknown
+Executing SQL update and returning generated keys
+Executing prepared SQL statement
+Setting SQL statement parameter value: column index 1, parameter value [ABCDE], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 2, parameter value [Fri Sep 09 06:09:35 KST 2022], value class [java.util.Date], SQL type 93
+SQL update affected 1 rows and returned 1 keys
+Executing prepared SQL update
+Executing prepared SQL statement [insert into Taco_Ingredients (taco, ingredient) values (?, ?)]
+Setting SQL statement parameter value: column index 1, parameter value [1], value class [java.lang.Long], SQL type unknown
+Setting SQL statement parameter value: column index 2, parameter value [FLTO], value class [java.lang.String], SQL type unknown
+SQL update affected 1 rows
+Executing SQL query [select id, name, type from Ingredient]
+Executing SQL query [select id, name, type from Ingredient]
+Executing SQL query [select id, name, type from Ingredient]
+Executing prepared SQL query
+Executing prepared SQL statement [select id, name, type from Ingredient where id=?]
+Setting SQL statement parameter value: column index 1, parameter value [FLTO], value class [java.lang.String], SQL type unknown
+Executing SQL update and returning generated keys
+Executing prepared SQL statement
+Setting SQL statement parameter value: column index 1, parameter value [ABCDE], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 2, parameter value [Fri Sep 09 06:11:00 KST 2022], value class [java.util.Date], SQL type 93
+SQL update affected 1 rows and returned 1 keys
+Executing prepared SQL update
+Executing prepared SQL statement [insert into Taco_Ingredients (taco, ingredient) values (?, ?)]
+Setting SQL statement parameter value: column index 1, parameter value [1], value class [java.lang.Long], SQL type unknown
+Setting SQL statement parameter value: column index 2, parameter value [FLTO], value class [java.lang.String], SQL type unknown
+SQL update affected 1 rows
+Executing SQL query [select id, name, type from Ingredient]
+Executing SQL query [select id, name, type from Ingredient]
+Executing prepared SQL query
+Executing prepared SQL statement [select id, name, type from Ingredient where id=?]
+Setting SQL statement parameter value: column index 1, parameter value [FLTO], value class [java.lang.String], SQL type unknown
+Executing SQL update and returning generated keys
+Executing prepared SQL statement
+Executing SQL query [select id, name, type from Ingredient]
+Executing SQL query [select id, name, type from Ingredient]
+Executing prepared SQL query
+Executing prepared SQL statement [select id, name, type from Ingredient where id=?]
+Setting SQL statement parameter value: column index 1, parameter value [FLTO], value class [java.lang.String], SQL type unknown
+Executing SQL update and returning generated keys
+Executing prepared SQL statement
+Setting SQL statement parameter value: column index 1, parameter value [ABCDE], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 2, parameter value [2022-09-08T21:20:29.362+00:00], value class [java.lang.String], SQL type 93
+SQL update affected 1 rows and returned 1 keys
+Executing prepared SQL update
+Executing prepared SQL statement [insert into Taco_Ingredients (taco, ingredient) values (?, ?)]
+Setting SQL statement parameter value: column index 1, parameter value [1], value class [java.lang.Long], SQL type unknown
+Setting SQL statement parameter value: column index 2, parameter value [FLTO], value class [java.lang.String], SQL type unknown
+SQL update affected 1 rows
+Executing SQL query [select id, name, type from Ingredient]
+Executing SQL query [select id, name, type from Ingredient]
+Executing prepared SQL query
+Executing prepared SQL statement [select id, name, type from Ingredient where id=?]
+Setting SQL statement parameter value: column index 1, parameter value [FLTO], value class [java.lang.String], SQL type unknown
+Executing SQL update and returning generated keys
+Executing prepared SQL statement
+Setting SQL statement parameter value: column index 1, parameter value [ABCDE], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 2, parameter value [2022-09-08T21:26:49.978+00:00], value class [java.lang.String], SQL type 93
+SQL update affected 1 rows and returned 1 keys
+Executing prepared SQL update
+Executing prepared SQL statement [insert into Taco_Ingredients (taco, ingredient) values (?, ?)]
+Setting SQL statement parameter value: column index 1, parameter value [1], value class [java.lang.Long], SQL type unknown
+Setting SQL statement parameter value: column index 2, parameter value [FLTO], value class [java.lang.String], SQL type unknown
+SQL update affected 1 rows
+Executing SQL query [select id, name, type from Ingredient]
+Executing SQL query [select id, name, type from Ingredient]
+Executing prepared SQL query
+Executing prepared SQL statement [select id, name, type from Ingredient where id=?]
+Setting SQL statement parameter value: column index 1, parameter value [FLTO], value class [java.lang.String], SQL type unknown
+Executing SQL update and returning generated keys
+Executing prepared SQL statement
+Setting SQL statement parameter value: column index 1, parameter value [ABCDE], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 2, parameter value [2022-09-08T22:07:04.182+00:00], value class [java.lang.String], SQL type 93
+SQL update affected 1 rows and returned 1 keys
+Executing prepared SQL update
+Executing prepared SQL statement [insert into Taco_Ingredients (taco, ingredient) values (?, ?)]
+Setting SQL statement parameter value: column index 1, parameter value [1], value class [java.lang.Long], SQL type unknown
+Setting SQL statement parameter value: column index 2, parameter value [FLTO], value class [java.lang.String], SQL type unknown
+SQL update affected 1 rows
+Executing SQL update and returning generated keys
+Executing prepared SQL statement
+Setting SQL statement parameter value: column index 1, parameter value [RK], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 2, parameter value [123], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 3, parameter value [SK], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 4, parameter value [SK], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 5, parameter value [123], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 6, parameter value [1111222233334444], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 7, parameter value [12/12], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 8, parameter value [123], value class [java.lang.String], SQL type 12
+Setting SQL statement parameter value: column index 9, parameter value [Fri Sep 09 07:07:28 KST 2022], value class [java.util.Date], SQL type 93
+SQL update affected 1 rows and returned 1 keys
+Executing prepared SQL update
+Executing prepared SQL statement [INSERT INTO Taco_Order_Tacos (TACOORDER, TACO) VALUES(?, ?)]
+Setting SQL statement parameter value: column index 1, parameter value [1], value class [java.lang.Long], SQL type -5
+Setting SQL statement parameter value: column index 2, parameter value [1], value class [java.lang.Long], SQL type -5
+SQL update affected 1 rows
+Executing SQL query [select id, name, type from Ingredient]
